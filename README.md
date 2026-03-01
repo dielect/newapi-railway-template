@@ -2,9 +2,8 @@
 
 一键部署 [New API](https://github.com/QuantumNous/new-api) 到 Railway 平台，自动包含 PostgreSQL 和 Redis。
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/YOUR_TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/newapi)
 
-> 替换上方 `YOUR_TEMPLATE_CODE` 为你发布模板后获得的实际模板代码。
 
 ## 模板包含的服务
 
